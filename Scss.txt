@@ -1,0 +1,16 @@
+Sass-> sytactically awesome style sheet.
+extension or extended version of css.
+css-> multipage website-> 1css-> lengthy.
+
+sass-> no directly link with HTML.
+css-> HTML.
+css-> css3 version->
+
+we have to work in scss,
+sass syntax is quite different in comparison of css, like to curly braces and no semicolon use
+in scss.
+
+sass         scss 
+------------------------------------------------
+variable usage->
+

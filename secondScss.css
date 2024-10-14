@@ -1,0 +1,34 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  background-color: darkseagreen;
+}
+.navbar h1 {
+  color: white;
+}
+.navbar h1::first-letter {
+  color: red;
+}
+.navbar ul {
+  display: flex;
+  justify-content: space-evenly;
+  color: white;
+  align-items: center;
+  gap: 80px;
+  list-style: none;
+}
+.navbar li:hover {
+  cursor: pointer;
+  color: black;
+}
+
+.container {
+  background-color: darkslateblue;
+  height: 100px;
+}
+.container h1 {
+  color: white;
+}
+.container p {
+  color: grey;
+}/*# sourceMappingURL=secondScss.css.map */

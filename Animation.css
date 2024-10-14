@@ -1,0 +1,73 @@
+.container{
+    height: 200px;
+    width: 200px;
+    background-color:darkslategrey;
+    position: relative;
+    animation-name:move_to_right;
+    animation-duration:5s;
+    animation-iteration-count: infinite;
+
+}
+
+@keyframes move_to_right {
+    to{
+        left: 900px;
+        top: 0;
+        background-color:fuchsia;
+        border-radius:60%;
+        border: 3px groove black;
+        box-shadow: 10px 10px 7px;
+
+    }
+    from{
+        left: 0;
+        top: 0;
+        
+    }
+    
+}
+
+h1{
+    animation-name:text_can_change;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+
+@keyframes text_can_change {
+    0%{
+        color:chartreuse;
+        font-family: monospace;
+    }
+    30%{
+        color:darkorange;
+        font-family: monospace;
+
+    }
+    40%{
+        color:blue;
+        font-family: monospace;
+
+    }
+    60%{
+        color:brown;
+        font-family: monospace;
+
+    }
+    70%{
+        color:darkgreen;
+        font-family: monospace;
+
+
+    }
+    90%{
+        color:crimson;
+        font-family: monospace;
+
+    }
+    100%{
+        color:darkred;
+        font-family: monospace;
+
+    }
+    
+}

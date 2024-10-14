@@ -1,0 +1,18 @@
+.parent{
+    background-color: darkgreen;
+    height: 500px;
+    display: flex;
+    justify-content: ;
+}
+.child{
+    font-family: sans-serif;
+    padding: 10px;
+    
+
+    
+}
+.img{
+    height: 10px;
+    width: 10px;
+
+}

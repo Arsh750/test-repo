@@ -1,0 +1,47 @@
+#z index
+#to use this property to prevent image overlaying.
+it is used to show the element position by giving the value of position.
+like we have three element and we have to show any of them in the top section,
+we can give the index postion "1"
+
+#-----------------------------------------------------------------------------------#
+#pseudo class:
+#hover
+
+#use this property to showcase the target element accordingly.
+
+#denoted by single ":"
+#pseudo element:
+#denoted by double "::"
+
+#-----------------------------------------------------------------------------------#
+
+#media querry: is used to make website responsive 
+#it is probably use for mobile and tablet to make website responsive.
+
+#-----------------------------------------------------------------------------------#
+#Flex-wrap:wrap
+it is used in parent property where we use this property for mobile and tablet view.
+it means when we decrease the desktop size into small pixel it will adjust or according
+to a mobile or tablet view it will no collapse while we decrease the size of webpage.
+
+#Flex-wrap:
+it is also used for mobile or tablet view this property can change the view in order form,
+meanwhile desktop version page when it will decrease to his normal size it will adjust to,
+reverse order of desktop view.
+#-----------------------------------------------------------------------------------#
+#display:grid
+it will allow to content and element into a grid form.
+
+
+
+#-----------------------------------------------------------------------------------#
+
+
+
+#-----------------------------------------------------------------------------------#
+
+
+
+#-----------------------------------------------------------------------------------#
+#-----------------------------------------------------------------------------------#

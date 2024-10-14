@@ -1,0 +1,28 @@
+#btn:hover{
+    cursor: pointer;
+    background-color: blueviolet;
+    color: blanchedalmond;
+    border:20px groove;
+    padding: 120px;
+    
+    
+}
+
+.para::selection{
+    background-color:coral ;
+}
+
+.para::first-letter{
+    font-size: 100px;
+    color: cornflowerblue;
+}
+
+input::placeholder{
+    color:cornflowerblue;
+    
+}
+
+input{
+    width:20%;
+    
+}

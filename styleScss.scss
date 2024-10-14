@@ -1,0 +1,12 @@
+$bgcolor:green;
+$bgpadding:90px;
+$font-color:red;
+
+.head{
+    background-color:$bgcolor;
+    color: crimson;
+    padding:$bgpadding;
+    border: 5px solid black;
+    color:$font-color;
+
+}

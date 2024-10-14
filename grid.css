@@ -1,0 +1,17 @@
+.ch{
+    background-color:darkgray;
+    border: 3px solid black;
+}
+.container{
+    height: 100vh;
+    display: grid;
+    background-color: rgb(65, 92, 92);
+    grid-template-columns: repeat(3,auto);
+    /* grid-template-rows:repeat(5,auto); */
+}
+.ch1{
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}

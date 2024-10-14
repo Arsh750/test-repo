@@ -1,0 +1,41 @@
+.container{
+    background-color: rgb(75, 14, 33);
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(5,auto);
+    box-shadow:10px 20px 10px rgb(191, 158, 146);
+    
+
+
+    
+
+
+}
+
+.ch{
+    background-color: rgb(232, 87, 87);
+    border: 3px solid rgba(0, 0, 0, 0.206);
+    
+    
+    
+    
+}
+.ch1{
+    grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row-start:1;
+    grid-row-end:3 ;
+    margin-right:8px;
+
+    
+    
+}
+.ch4{
+    grid-column-start:1 ;
+    grid-column-end: 5;
+    grid-row-start:2;
+    grid-row-end:4;
+    margin-right:8px;
+}
+
+

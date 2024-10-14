@@ -1,0 +1,41 @@
+.wrapper{
+    background-color:blanchedalmond;
+    display: flex;
+    justify-content:space-around;
+    /* flex-wrap: wrap; */
+    flex-wrap: wrap-reverse;
+    
+}
+.child1{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(118, 7, 255);
+    border:3px solid;
+
+}
+.child2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(254, 254, 19);
+    border:3px solid;
+
+}
+.child3{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(61, 68, 65);
+    border:3px solid;
+
+}
+.ch1{
+    background-color: brown;
+}
+.ch2{
+    background-color: aquamarine;
+
+}
+
+.ch3{
+    background-color: chartreuse;
+}
+
